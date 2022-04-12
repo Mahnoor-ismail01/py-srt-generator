@@ -35,6 +35,6 @@ python run.py
 -Change the default model path you want to use in config.py INFERENCE_PARAMS_PATH under the project root folder.
 
 
-Enjoy :)
+Enjoy  :)
 
 
