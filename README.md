@@ -7,7 +7,7 @@ First Clone the Repo
 ```ruby
 git clone https://github.com/Mahnoor-ismail01/py-srt-generator.git
 cd py-srt-generator
-```
+```,,,,,
 
 
 Next Install the required dependencies
