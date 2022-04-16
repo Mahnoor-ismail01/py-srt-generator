@@ -1,4 +1,4 @@
-# py-srt-generator..
+# py-srt-generator
 A Python based Machine Learning Model that can generate SRT (subtitiles file) of any video efficiently.
 
 ## How to Run
